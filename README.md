@@ -1,3 +1,21 @@
+WEATHER SEARCH APP
+
+1. Simply get your api from openweathermap api 
+2. get the api key
+3. add your styling and run
+
+
+To check out he website: https://awesome-bell-567f0f.netlify.app/
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
