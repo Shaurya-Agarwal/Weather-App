@@ -1,4 +1,6 @@
-WEATHER SEARCH APP
+# WEATHER SEARCH APP
+
+Displays the temperature and weather of the city that is being searched. 
 
 1. Simply get your api from openweathermap api 
 2. get the api key
