@@ -6,7 +6,7 @@ Displays the temperature and weather of the city that is being searched.
 2. get the api key
 3. add your styling and run
 
-
+# Tech Stack : React.js, CSS, Bootstrap, Netlify.
 To check out he website: https://awesome-bell-567f0f.netlify.app/
 
 
